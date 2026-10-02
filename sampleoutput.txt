@@ -1,0 +1,10 @@
+Enter first number: 20
+Enter second number: 6
+
+--- Calculator Results ---
+Addition: 26
+Subtraction: 14
+Multiplication: 120
+Division: 3.3333333333333335
+Floor division: 3
+Modulus: 2
